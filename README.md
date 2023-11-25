@@ -1,3 +1,3 @@
 # Naturelinks
 PRIVATE POLICY 
-Http://github.com/Patocity/Naturelinks/private policy
+Http://github.com/Patocity/Naturelinks/private-policy
